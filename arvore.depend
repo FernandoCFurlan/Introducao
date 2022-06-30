@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650900214 source:d:\estrutura de dados\arvore\main.cpp
+	<iostream>
+	"arvore.h"
+
+1650900308 d:\estrutura de dados\arvore\arvore.h
+
